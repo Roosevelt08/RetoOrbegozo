@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1559.0",
+    "axios": "^1.6.7",
+    "uuid": "^9.0.1"
+  },
+  "name": "reto-tecnico-back-aws-orbegozo",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "devDependencies": {
+    "serverless-offline": "^13.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
